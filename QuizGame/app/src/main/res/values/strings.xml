@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="new_game">Nowa Gra</string>
+    <string name="flag_img">flag_img</string>
+    <string name="zatwierdz">Zatwierdź</string>
+    <string name="numoftries">numOfTries</string>
+    <string name="quiz_game_1">Quiz Game</string>
+</resources>

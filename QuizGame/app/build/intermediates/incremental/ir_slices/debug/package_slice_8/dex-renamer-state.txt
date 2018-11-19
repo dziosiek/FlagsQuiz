@@ -1,0 +1,4 @@
+#Thu Apr 19 14:16:12 CEST 2018
+base.0=/home/adam/QuizGame/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
